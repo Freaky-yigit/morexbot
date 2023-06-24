@@ -13,4 +13,4 @@
 - [x] Family
 - [x] Giveaways 
 - [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=852146464478330880&permissions=8&scope=bot%20applications.commands)
