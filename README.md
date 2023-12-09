@@ -1,16 +1,29 @@
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freaky-yigit&repo=morexbot&theme=tokyonight)](https://github.com/Freaky-yigit/morexbot)
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
-- [x] Slash Commands 
-- [x] Upto date with Discord.js v14
-- [x] Automod
-- [x] Custom Commands
-- [x] Music Commands
-- [x] Tickets
-- [x] Utility Commands
-- [x] Suggestions 
-- [x] Reaction Roles
-- [x] Family
-- [x] Giveaways 
-- [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=852146464478330880&permissions=8&scope=bot%20applications.commands)
+## ❤️‍🔥 Özellikler
+
+### Sistemler
+> ✅ Bağlantı Engel <br>
+> ✅ Buton Rol <br>
+> ✅ Büyük Harf Engel <br>
+> ✅ Davet Sistemi <br>
+> ✅ Log <br>
+> ✅ Müzik Sistemi <br>
+> ✅ Oto Rol <br>
+> ✅ Sayaç <br>
+> ✅ Spam Koruması <br>
+
+### Oyun Sistemleri
+> ✅ Kelime Oyunu <br>
+
+### Komutlar
+> ✅ Müzik Komutları <br>
+> ✅ Botla İlgili Komutlar <br>
+> ✅ Yetkili Komutları <br>
+> ✅ Eğlence Komutları <br>
+> ✅ Genel Komutlar <br>
+> ✅ Oyunlar <br>
+
+### Diğer
+> ✅ Kendi slash komutlarınızı ekleyip kullanabilmen için optimize bir altyapı <br>
+> ✅ Client'a tanımlı, işlevli fonksiyonlar <br>
+> ✅ Kullanımı basitleştirilmiş ve önbellekleme sistemiyle modifiye edilmiş MongoDB veritabanı <br>
+> ✅ Burada bahsedilmeyen birçok özellik daha... <br>
