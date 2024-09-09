@@ -1,3 +1,4 @@
+                                Gizlilik Politikası
 1. Toplanan Veriler
 Nora botu kullanıldığında aşağıdaki veriler toplanabilir:
 
